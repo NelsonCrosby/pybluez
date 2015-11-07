@@ -5,6 +5,10 @@ Python extension module allowing access to system Bluetooth resources.
 
 ## Getting Started ##
 
+> META: Might not need to have all this here - just refer to the examples
+> directory and the README. Might still want to add some usage info here
+> though.
+
 Check out [Installing][sec install], then take a peek at the
 [examples][ex simple]:
 
