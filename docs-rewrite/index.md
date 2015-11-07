@@ -30,4 +30,4 @@ There are plenty more examples in the [examples directory][ex all].
 
 Check out [the README][readme] for install instructions.
 
-[readme]: https://github.com/NelsonCrosby/pybluez#readme
+[readme]: https://github.com/karulis/pybluez#readme
