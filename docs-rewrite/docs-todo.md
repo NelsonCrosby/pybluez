@@ -1,6 +1,6 @@
 # Documentation Rewrite TODO #
 
-See #97 for discussion.
+_See karulis/pybluez#97 for discussion._
 
 - [ ] Port API docs
 - [ ] Table of Contents
